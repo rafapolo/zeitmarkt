@@ -1,0 +1,8 @@
+/.bundle
+/vendor
+
+/log/*.log
+/tmp
+
+# ignore test folder while not done
+/test
