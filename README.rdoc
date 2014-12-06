@@ -1,3 +1,0 @@
-## zeitmarkt
-----
-![model](http://github.com/rafapolo/zeitmarkt/raw/master/doc/model.png)
