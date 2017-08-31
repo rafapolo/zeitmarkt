@@ -6,7 +6,7 @@ As part of the Gütermarkt project at the ZKU (Zentrum für Kunst und Urbanistik
 
 ----
 
-![Research](http://alexhead.com/selected-works/focus-zku#blockStyle1937Main698)
+[Research](http://alexhead.com/selected-works/focus-zku#blockStyle1937Main698)
 
 ----
 
